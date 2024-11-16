@@ -10,7 +10,7 @@ openai.api_key = api_key
 # Function to generate lesson plan
 def generate_lesson_plan(prompt):
     try:
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-4",
             messages=[
                 {"role": "user", "content": prompt}
