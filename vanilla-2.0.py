@@ -51,15 +51,17 @@ def main():
         Learning Objectives: {learning_objectives}
 
         Please generate a detailed lesson plan that emphasizes student agency, incorporating the following elements:
-        1. **Authentic Problems**: Design real-world problems that connect to students' personal lives and are familiar to them.
-        2. **Goal-Directed Learning**: Encourage students to actively think about their goals and outline strategic steps they can take to achieve these outcomes.
-        3. **Competence Beliefs**: Include activities that help students build confidence in their abilities through self-reflection and self-regulation.
-        4. **Choice and Autonomy**: Provide opportunities for students to choose topics, learning activities, or environments (e.g., virtual, physical, or outdoor spaces).
-        5. **Action and Problem-Solving**: Design tasks where students act as problem-solvers, taking responsibility for their learning and helping peers.
-        6. **Collaboration and Interaction**: Facilitate student collaboration, where they engage in discussions, critical thinking, and theorizing with peers to solve problems.
-        7. **Opportunities to Share Ideas**: Create avenues for students to share and discuss their ideas with the class, ensuring their voices are heard.
-        8. **Play Different Roles**: Empower students to assess their work or their peers' work, shifting the focus beyond responding to teacher-directed tasks.
-        9. **Shared Authority**: Allow students to co-construct the curriculum and decide on forms of assessment, giving them greater control over their learning environment.
+        1. Authentic Problems: Develop real-world problems or scenarios relevant to students’ personal lives or communities. Ensure these problems are meaningful and relatable, drawing on their lived experiences.
+        2. Goal-Directed Learning: Encourage students to set clear, personalized goals related to the learning objectives. Incorporate strategies for students to reflect on their goals and plan the steps needed to achieve them.
+        3. Making Choices: Provide students with options in how they engage with the content, such as choosing learning activities, tools, or even the physical or virtual spaces where they work. Highlight opportunities for decision-making throughout the lesson.
+        4. Taking Actions: Design activities that require students to take initiative and act on their ideas. Include opportunities for students to identify problems and take proactive steps to address or respond to them.
+        5. Problem-Solving: Promote independence and critical thinking by engaging students in problem-solving tasks where they explore solutions, articulate their reasoning, and support their peers in overcoming challenges.
+        6. Self-Efficacy: Incorporate self-reflection exercises that allow students to assess their progress and strategies. Provide opportunities for students to build confidence in their abilities, including self-regulation and constructive self-assessment.
+        7. Interaction: Design tasks that involve meaningful interaction with both their peers and their environment. This could include hands-on activities, discussions, or collaborative projects that make use of real-world materials or scenarios.
+        8. Collaboration: Facilitate group work or partnerships where students engage in collaborative thinking, discussion, and synthesis of ideas. Include structured opportunities for peer feedback and joint problem-solving.
+        9. Opportunities to Share Ideas: Create spaces for students to share their ideas and ensure that every voice is heard. Plan for presentations, group discussions, or platforms where students’ insights can be acknowledged and discussed.
+        10. Playing Different Roles: Empower students to take on various roles in the classroom, particularly in the assessment process. Encourage self and peer assessment where students critique and reflect on their own or others' work.
+        11. Sharing Authority: Give students greater control over their learning by involving them in decisions about assessment methods, content topics, or how their learning environment is structured. Support co-construction of learning experiences to give them a sense of ownership.
 
         Structure your response to include:
         - **Grade, Subject, Topic**
