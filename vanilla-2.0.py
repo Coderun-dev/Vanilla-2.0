@@ -63,14 +63,7 @@ def main():
         10. Playing Different Roles: Empower students to take on various roles in the classroom, particularly in the assessment process. Encourage self and peer assessment where students critique and reflect on their own or others' work.
         11. Sharing Authority: Give students greater control over their learning by involving them in decisions about assessment methods, content topics, or how their learning environment is structured. Support co-construction of learning experiences to give them a sense of ownership.
 
-        Structure your response to include:
-        - **Grade, Subject, Topic**
-        - **Opening and Introduction**
-        - **Guided Practice**: Activities that promote exploration and problem-solving
-        - **Independent Practice**: Tasks that allow for student choice and reflection
-        - **Collaboration Opportunities**
-        - **Assessment and Reflection**: Strategies that involve self-assessment or peer assessment
-        - **Extension Activity and Homework**: Meaningful and relevant tasks that support continued learning and self-efficacy
+        Please generate a detailed lesson plan including Grade, Subject, Topic, Opening, Introduction, Guided Practice, Independent Practice, Closing, Assessment, Extension Activity, and Homework.
         """
 
         prompt = prompt_template.format(
@@ -79,8 +72,7 @@ def main():
             topic=teacher_input["topic"],
             learning_objectives=teacher_input["learning_objectives"],
         )
-
-        # Generate and display the lesson plan
+       # Generate and display the lesson plan
         lesson_plan = generate_lesson_plan(prompt)
         st.write(lesson_plan)
 
