@@ -31,8 +31,7 @@ def main():
     grade = st.text_input('Grade', "8th")
     subject = st.text_input('Subject', "History")
     topic = st.text_input('Topic', "Great Depression")
-    learning_objectives = st.text_area('Learning Objectives', "Students will examine how the economic practices of the 1920s contributed to the coming of the Great
-Depression.")
+    learning_objectives = st.text_area('Learning Objectives', "Students will examine how the economic practices of the 1920s contributed to the coming of the Great Depression.")
 
     if st.button('Generate Lesson Plan'):
         # Create prompt dynamically
