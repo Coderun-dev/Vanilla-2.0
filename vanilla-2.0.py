@@ -25,7 +25,7 @@ def generate_lesson_plan(prompt):
 
 # Streamlit app
 def main():
-    st.title("Student Agency-Focused Lesson Plan Generator")
+    st.title("Dialogue-Focused Lesson Plan Generator")
 
     # Input fields for teacher preferences
     grade = st.text_input('Grade', "8th")
